@@ -1,5 +1,6 @@
 //Öğrenci Adı Soyadı:[Gürkan Özkan]
 //Öğrenci No:[250542023]
+//Tarih:[19.11.2025]
 //Ödev No:[Ödev-3:Restoran Şiparişi]
 //Ödev Açıklaması:[sipariş almak için düzlenlenen sistemde ana yemekler,içecek fiyatı ve tatlı fiyatlarını numaralandırıp öğrenci indirimi var mı yok mu sorusunu soran java kodu]
 
@@ -157,3 +158,4 @@ public class RestoranSiparis {
         sc.close();
     }
 }
+
