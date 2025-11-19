@@ -1,5 +1,6 @@
 //Öğrenci Adı Soyadı:[Gürkan Özkan]
 //Öğrenci No:[250542023]
+//Tarih:[19.11.2025]
 //Ödev No:[Ödev-1:Not Sistemi]
 //Ödev Açıklaması:[vize,final ve ödev notlarını alarak harf metodu,büte girebilme hakkı ve durumu yazar.]
 
@@ -84,3 +85,4 @@ public class NotSistemi {
         input.close();
     }
 }
+
