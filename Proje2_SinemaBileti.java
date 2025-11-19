@@ -1,5 +1,6 @@
 //Öğrenci Adı Soyadı:[Gürkan Özkan]
 //Öğrenci No:[250542023]
+//Tarih:[19.11.2025]
 //Ödev No:[Ödev-2:Sinema Bileti]
 //Ödev Açıklaması:[Sinema bileti fıyatını hesaplayan java kodu yazdık saatini,hangi gün,hangi tür(2d,3d vs.),yaşını ve mesleğini sorup ona göre fiyat tarifesini yazıyor]
 
@@ -127,3 +128,4 @@ public class SinemaBileti {
         sc.close();
     }
 }
+
